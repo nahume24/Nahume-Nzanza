@@ -1,6 +1,8 @@
 # Nahume-Nzanza
 <h1 align="center">Hi 👋, I'm Nahume Nzanza</h1>
-<p>I am  final year student in BSc Information Technology at North West University.I am a highly motivated individual striving to perform to my best ability. I am honest, trustworthy,accountable and not afraid to work hard and be solutionist in my thinking and application of situations.I am organized in my approach to projects and set out clear timelines for myself when completing tasks. I love learning new programming languages. I would like to venture to Data Analytics.</p>
+<p> I am  final year student in BSc Information Technology at North West University.I am a highly motivated individual striving to perform to my best ability. I am honest, trustworthy,accountable and not afraid to work hard and be solutionist in my thinking and application of situations.I am organized in my approach to projects and set out clear timelines for myself when completing tasks. I love learning new programming languages. I would like to venture to Data Analytics and web development from South Africa.</p>
+
+- 🌱 I’m currently learning **HTLM5 and CSS**
 
 - 📫 How to reach me **nzanzanahume@gmail.com**
 
