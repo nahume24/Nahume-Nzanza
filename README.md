@@ -6,6 +6,7 @@
 
 
 <h3 align="center">A Software Developer student from South Africa</h3>
+<p>I'm a self-motivated, diligent individual with a focus on technology and problem - solving skills. I'm excited to learn anything at any capacity, and I'm interested in developing effective solution that can be implemented in real challenges. I take full advantage over all opportunities to enhance my skills that are presented to me. </p>
 
 - How to reach me **nzanzanahume@gmail.com**
 <h3 align="left"> I’m presently learning : </h3>
