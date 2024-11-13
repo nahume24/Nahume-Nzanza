@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, I'm Nahume Nzanza</h1>
 
-![github](https://user-images.githubusercontent.com/38375869/202238956-6411d310-baaa-43d8-9863-627db8c3fd60.gif)
 
 
 <h3 align="center">A Software Developer student from South Africa</h3>
