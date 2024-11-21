@@ -7,13 +7,10 @@
 <h3 align="center">A Software Developer student from South Africa</h3>
 <p>I'm a self-motivated, diligent individual with a focus on technology and problem - solving skills. I'm excited to learn anything at any capacity, and I'm interested in developing effective solution that can be implemented in real challenges. I take full advantage over all opportunities to enhance my skills that are presented to me. </p>
 
-- How to reach me **nzanzanahume@gmail.com**
-<h3 align="left"> I’m presently learning : </h3>
- <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/nahume-nzanza-3506ab1b7/" target ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahume nzanza" height="30" width="40" /></a> <a href="https://twitter.com/nahume84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahume84" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/nahume-nzanza-3506ab1b7/" target ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahume nzanza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
